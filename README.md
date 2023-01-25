@@ -1,4 +1,28 @@
-# LBAW's framework
+# AskFeup
+
+The project's goal is to provide a free and easy-to-use space online where people can not only ask questions but answer and interact with other people.
+This project was developed for the Database and Web Applications Laboratory Curricular Unit @ FEUP.
+
+<p align="center">
+    <a href="https://youtu.be/e8Se_X81lAY">
+        <img src="https://img.youtube.com/vi/e8Se_X81lAY/0.jpg">
+    </a>
+</p>
+
+- Igor Diniz, up202000162@edu.fe.up.pt
+- Isabella Colombarolli, up201902617@edu.fe.up.pt
+- José Luís Rodrigues, up202008462@edu.fe.up.pt
+- Pedro Nunes, up201905396@edu.fe.up.pt
+
+## About
+
+The main goal of the project is to develop a web-based system where people can ask, answer and look for different questions regarding a variety of subjects.
+The web contains a lot of information, but sometimes it's hard to find an answer to the question you want to ask. By presenting a space where users can ask and answer questions, we are looking to spread information and increase its accessibility. We can achieve this by providing a space for discussion among the users, allowing the delivery of information in a free and collaborative way.
+The program has a registration system that keeps track of users and allows for the distinction of permissions between users (e.g. moderator). Any registered user can post and answer questions. Questions are fully interactive, as users are allowed to comment on both the question and the answers. Furthermore, both can be voted by the community and sorted accordingly. This voting system is used to calculate a score for each user, which works as an indicator of the reliability of that person. Authors can also manage different tags so the questions are easier to find. Questions will be presented in an organized matter, to give users ease of use. There is a search system in place that allows users to find specific questions they may have. To further facilitate the experience, it is also possible to filter the questions according to different factors (e.g. topic, tags).
+The users of the application can be categorized into the following groups: User, Authenticated user, Author, Moderator, and Administrator. Non-authenticated users may navigate and read questions, but only registered users are allowed to create, edit and interact with those. Authors are given the option to edit or delete their content. On top of that, question authors can also manage tags and choose the correct answer. Moderators can delete the content and edit the tags on a question. Finally, administrators can manage tags.
+Moreover, the stakeholder of Ask FEUP will be anyone looking for answers and with an interest to learn, such as students, researchers, professors, and workers.
+
+## LBAW's framework
 
 ### Usage
 
